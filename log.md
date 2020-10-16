@@ -12,3 +12,6 @@ I thought it would be easy, but there is a twist. Still can't figure out how to 
 
 ### Day4: October 14, 2020 (Solving pset3/plurality)
 This problem was very easy & it took me almost 5 days to solve. But I do't know why I was not able to solve it before. Today just got idea & solved the same problem in 10min.
+
+### Day5: October 16, 2020 (Solving pset3/runoff)
+Today I started with runoff & understood its concept briefly.
