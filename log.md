@@ -15,3 +15,6 @@ This problem was very easy & it took me almost 5 days to solve. But I do't know 
 
 ### Day5: October 16, 2020 (Solving pset3/runoff)
 Today I started with runoff & understood its concept briefly.
+
+### Day6: October 17, 2020 (Solving pset3/runoff)
+I implemented one function out of six called Vote. This function generally validates the name of the candidate & updates it to the global preference array.
