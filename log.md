@@ -18,3 +18,6 @@ Today I started with runoff & understood its concept briefly.
 
 ### Day6: October 17, 2020 (Solving pset3/runoff)
 I implemented one function out of six called Vote. This function generally validates the name of the candidate & updates it to the global preference array.
+
+### Day7: October 18, 2020 (Solving pset3/runoff)
+Today I just implemented the tabulate & print_winner function which prints the name of a candidate who has more than half the number of votes.
