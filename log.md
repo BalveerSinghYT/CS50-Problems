@@ -21,3 +21,6 @@ I implemented one function out of six called Vote. This function generally valid
 
 ### Day7: October 18, 2020 (Solving pset3/runoff)
 Today I just implemented the tabulate & print_winner function which prints the name of a candidate who has more than half the number of votes.
+
+### Day8: October 19, 2020 (Solving pset3/runoff)
+Did't done much. Just implemented find_min & is_tie function, but more changes needed.
