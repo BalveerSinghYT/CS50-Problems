@@ -24,3 +24,6 @@ Today I just implemented the tabulate & print_winner function which prints the n
 
 ### Day8: October 19, 2020 (Solving pset3/runoff)
 Did't done much. Just implemented find_min & is_tie function, but more changes needed.
+
+### Day9: October 20, 2020 (Solving pset3/runoff)
+Worked for 45min & implemented all the functions, but correction & testing is pending.
