@@ -14,7 +14,7 @@ typedef struct
 {
     string name;
     int votes;
-    bool eliminated;    
+    bool eliminated;
 }
 candidate;
 
@@ -144,12 +144,16 @@ bool vote(int voter, int rank, string name)
 void tabulate(void)
 {
     // TODO
-    
+
     for (int i=0; i<voter_count; i++)
     {
         if (candidates[preferences[i][0]].eliminated == false)
         {
             candidates[preferences[i][0]].votes++;
+        }
+        else if (candidates[preferences[i][0]].eliminated == true)
+        {
+            candidates[preferences[i][1]].votes++;
         }
     }
     return;
@@ -163,11 +167,11 @@ bool print_winner(void)
     {
         if (candidates[i].votes > (voter_count/2))
         {
-            printf("%s", candidates[i].name);
+            printf("%s\n", candidates[i].name);
             return true;
         }
     }
-    
+
     return false;
 }
 
@@ -175,13 +179,35 @@ bool print_winner(void)
 int find_min(void)
 {
     // TODO
-    return 0;
+    int min_vote = candidates[0].votes;
+    int min = 0;
+    for (int i=0; i<candidate_count; i++)
+    {
+        if (candidates[i].votes < min_vote)
+        {
+            min = candidates[i].votes;
+            min = i;
+        }
+    }
+    printf("%i\n", min);
+    return min;
 }
 
 // Return true if the election is tied between all candidates, false otherwise
 bool is_tie(int min)
 {
     // TODO
+    for (int i=0; i<candidate_count; i++)
+    {
+        for (int j=0; j<candidate_count; j++)
+        {
+            if (candidates[i].votes == candidates[j].votes)
+            {
+                return true;
+            }
+        }
+
+    }
     return false;
 }
 
@@ -189,5 +215,6 @@ bool is_tie(int min)
 void eliminate(int min)
 {
     // TODO
+    candidates[min].eliminated = true;
     return;
 }
