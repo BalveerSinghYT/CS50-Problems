@@ -30,3 +30,6 @@ Worked for 45min & implemented all the functions, but correction & testing is pe
 
 ### Day10: October 21, 2020 (Solving pset3/runoff)
 I'm debugging the code for getting the correct output. Today I debugged the find_min function & corrected the error. Still, the output is not correct, more functions need to debug.
+
+### Day11: October 23, 2020 (Solving pset3/runoff)
+Still, I'm debugging & testing but not getting accurate results & tomorrow is my TCS-NQT exam, I'm also preparing for that.
