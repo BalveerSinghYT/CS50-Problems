@@ -33,3 +33,6 @@ I'm debugging the code for getting the correct output. Today I debugged the find
 
 ### Day11: October 23, 2020 (Solving pset3/runoff)
 Still, I'm debugging & testing but not getting accurate results & tomorrow is my TCS-NQT exam, I'm also preparing for that.
+
+### Day12: October 25, 2020 (Solved TCS NQT - Caesar)
+I solved the coding problem that i got in TCS NQT exam yesterday. It was similar to the problem pset2/Caesar.
