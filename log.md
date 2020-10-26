@@ -36,3 +36,6 @@ Still, I'm debugging & testing but not getting accurate results & tomorrow is my
 
 ### Day12: October 25, 2020 (Solved TCS NQT - Caesar)
 I solved the coding problem that i got in TCS NQT exam yesterday. It was similar to the problem pset2/Caesar.
+
+### Day13: October 26, 2020 (Solving pset3/runoff)
+Still debugging the code & trying to get the right output. Today I spend only 40min on this.
