@@ -39,3 +39,6 @@ I solved the coding problem that i got in TCS NQT exam yesterday. It was similar
 
 ### Day13: October 26, 2020 (Solving pset3/runoff)
 Still debugging the code & trying to get the right output. Today I spend only 40min on this.
+
+### Day14-15: October 27-28, 2020 (Solving pset3/runoff)
+It already took more than 12 days since I'm solving this problem but still didn't get a complete result. By the way, today I debugged the tabulate function & verified it. 
