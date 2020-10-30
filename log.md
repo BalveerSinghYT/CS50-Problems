@@ -41,4 +41,10 @@ I solved the coding problem that i got in TCS NQT exam yesterday. It was similar
 Still debugging the code & trying to get the right output. Today I spend only 40min on this.
 
 ### Day14-15: October 27-28, 2020 (Solving pset3/runoff)
-It already took more than 12 days since I'm solving this problem but still didn't get a complete result. By the way, today I debugged the tabulate function & verified it. 
+It already took more than 12 days since I'm solving this problem but still didn't get a complete result. By the way, today I debugged the tabulate function & verified it.
+
+### Day 16: October 29, 2020 (Solving pset3/runoff)
+I have spent my whole day on debugging & testing to get all the test cases positive & I also shot the video. But now only 2 test cases are left out of 23.
+
+### Day 17: October 30, 2020 (Solved pset3/runoff)
+I'm so happy that today I have solved the runoff problem. It took 14 days for me to solve this problem. I know my code does not look good because I have used only loops & conditions, but still, I'm satisfied now because I have solved it on my own.
