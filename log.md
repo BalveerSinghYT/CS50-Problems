@@ -48,3 +48,6 @@ I have spent my whole day on debugging & testing to get all the test cases posit
 
 ### Day 17: October 30, 2020 (Solved pset3/runoff)
 I'm so happy that today I have solved the runoff problem. It took 14 days for me to solve this problem. I know my code does not look good because I have used only loops & conditions, but still, I'm satisfied now because I have solved it on my own.
+
+### Day 18: November 4, 2020 (Let's Solve pset3/Tideman)
+For the last 4-5 days, I was editing the video & published it today. By the way, today I understood the basic principle behind the Tideman problem.
